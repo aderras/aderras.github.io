@@ -4,5 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: cv_aderraschouk.pdf
+description: My most recent CV is available in the link on the right. 
 ---
