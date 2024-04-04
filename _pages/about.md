@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-My research interests include cumulus parameterization and applications of nonequilibrium statistical mechanics to the atmosphere.
+I am a physicist who uses satellite data to develop analytical models that shed light on the complicated processes behind clouds. My research interests include cumulus parameterization and nonlinear dynamics.
 
 In my postdoctoral research I use remote sensing to inform cumulus convection models. My group and I aim to reduce uncertainties in global climate models by improving estimates of vertical mass flux and vertical velocity.
 
