@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: The publications below were published during my PhD in condensed matter physics. 
-years:  [2018,2019,2021,2022]
+description: 
+years:  [2018,2019,2021,2022,2024,2025]
 nav: true
 nav_order: 1
 ---
