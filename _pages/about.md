@@ -9,7 +9,7 @@ profile:
   image: profile_photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>City College of New York</p>
+    <p>Columbia Climate School Postdoctoral Fellow</p>
     <p>New York, NY</p>
 
 news: False  # includes a list of news items
